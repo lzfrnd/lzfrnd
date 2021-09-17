@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 ### Aplicações desenvolvidas
 
-:label: fake e-commerce: [ver o código](https://github.com/luizzzdev/trilha-react/tree/15-09-2021-finalizando-testes/fake-store) ou  [ver a aplicação](https://www.example.com) 
+:label: fake e-commerce: [ver o código](https://github.com/luizzzdev/trilha-react/tree/15-09-2021-finalizando-testes/fake-store) ou  [ver a aplicação](https://wonderful-spence-32c74a.netlify.app) 
