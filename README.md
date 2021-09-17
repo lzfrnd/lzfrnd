@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+---
+
+### Aplicações desenvolvidas
+
+:label: fake e-commerce: [ver o código](https://github.com/luizzzdev/trilha-react/tree/15-09-2021-finalizando-testes/fake-store) ou  [ver a aplicação](https://www.example.com) 
